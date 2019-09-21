@@ -1,0 +1,10 @@
+language: go
+
+go:
+
+env:
+  global:
+    - GO111MODULE=on
+
+script:
+  - make test
