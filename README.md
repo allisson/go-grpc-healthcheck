@@ -1,5 +1,7 @@
 # go-grpc-healthcheck
-[![Build Status](https://travis-ci.org/allisson/go-grpc-healthcheck.svg)](https://travis-ci.org/allisson/go-grpc-healthcheck) [![Go Report Card](https://goreportcard.com/badge/github.com/allisson/go-grpc-healthcheck)](https://goreportcard.com/report/github.com/allisson/go-grpc-healthcheck)
+[![Build Status](https://travis-ci.org/allisson/go-grpc-healthcheck.svg)](https://travis-ci.org/allisson/go-grpc-healthcheck)
+[![Go Report Card](https://goreportcard.com/badge/github.com/allisson/go-grpc-healthcheck)](https://goreportcard.com/report/github.com/allisson/go-grpc-healthcheck)
+[![Documentation](https://godoc.org/github.com/allisson/go-grpc-healthcheck?status.svg)](http://godoc.org/github.com/allisson/go-grpc-healthcheck)
 
 Simple implementation of `gRPC Health Checking Protocol`.
 
